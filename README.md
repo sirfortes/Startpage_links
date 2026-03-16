@@ -39,7 +39,7 @@ Abra o `startpage.html` diretamente no navegador, ou hospede no GitHub Pages e a
 2. Abra as configurações da extensão
 3. Insira a URL do GitHub Pages:
    ```
-   https://seuusuario.github.io/startpage
+   https://sirfortes.github.io/Startpage_links
    ```
 
 **Sincronizar entre dispositivos**
@@ -93,7 +93,7 @@ Open `startpage.html` directly in any browser, or host it on GitHub Pages and po
 2. Open the extension settings
 3. Set the URL to your GitHub Pages address:
    ```
-   https://yourusername.github.io/startpage
+   https://sirfortes.github.io/Startpage_links
    ```
 
 **Syncing between devices**
